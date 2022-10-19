@@ -4,3 +4,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheusbezerra._)
 
 ![Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbezerraa&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbezerraa&layout=compact)](https://github.com/matheusbezerraa/github-readme-stats)
