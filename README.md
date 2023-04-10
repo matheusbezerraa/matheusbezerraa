@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Freire+Bezerra;I'm+19+years+old;I+am+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-#### Redes Sociais
+#### Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bezerra-435a30234/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=23DC322F)](mailto:matheusbezerra.office@gmail.com)
 ## Techs
