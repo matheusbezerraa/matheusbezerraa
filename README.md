@@ -13,7 +13,6 @@
 <div text-align="justify">
 
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=61DAFB"/>
 
@@ -27,6 +26,7 @@
 <img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB" />  
 <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=Figma&logoColor=61DAFB" />  
 
 </div>
