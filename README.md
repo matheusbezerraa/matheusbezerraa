@@ -4,7 +4,7 @@
 
 ## 📖 Sobre Mim
 
-Sou **Engenheiro de Dados na FCx Labs** e bacharel em **Ciência da Computação pela UNINASSAU**. Minha atuação é focada na construção de arquiteturas de dados resilientes, utilizando padrões modernos como Medallion Architecture e ferramentas de integração de classe enterprise.
+Sou **Engenheiro de Dados na FCx Labs** e bacharel em **Ciência da Computação pela UNINASSAU**. Minha atuação é focada na construção de arquiteturas de dados resilientes, utilizando padrões modernos como Medallion Architecture e ferramentas de integração.
 
 - 🎓 **Graduado em Ciência da Computação** (UNINASSAU).
 - 🏗️ Especialista em pipelines de **ETL/ELT** e integração de dados de larga escala.
